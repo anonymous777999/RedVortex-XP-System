@@ -95,4 +95,4 @@ MIT License – Use it, remix it, learn from it.
 
 ---
 
-🧠 Built by hackers, for hackers. Make it yours. Make it legendary.
+🧠 Built by Redvortex, for hackers. Make it yours. Make it legendary.
