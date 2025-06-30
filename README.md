@@ -21,7 +21,7 @@ Level up your skills, earn XP, complete quests, track your stats, and build your
 Clone the repo and run the installer:
 
 ```bash
-git clone https://github.com/YourUsername/RedVortex-XP-System.git
+git clone https://github.com/anonymous777999/RedVortex-XP-System.git
 cd RedVortex-XP-System
 bash install_redvortex.sh
 ```
