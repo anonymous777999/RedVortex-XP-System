@@ -1,3 +1,9 @@
+# ===============================================
+# RedVortex XP System v1.1
+# Author  : Shubham Gautam (RedVortex)
+# GitHub  : https://github.com/anonymous777999
+# Linkdin : https://www.linkedin.com/in/shubham-gautam-225187218/
+# ===============================================
 #!/bin/bash
 
 # ─────────────[ GLOBAL FILE PATHS ]─────────────
